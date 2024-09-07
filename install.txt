@@ -1,0 +1,35 @@
+## below two package should install first
+#Cython
+#numpy
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+#or conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
+# (bbox) python setup.py build_ext install
+opencv-python
+pandas
+scikit-learn
+scipy
+importlib-metadata
+click
+flake8
+jsonschema
+keyring
+pluggy
+prettytable
+sphinx
+pyasn1
+timm
+Pillow
+lap
+matplotlib
+ffmpeg
+gdown
+pika
+IPython
+psutil
+seaborn
+tensorboard
+PyQt5
+shapely
+yacs
+faiss-cpu
+tabulate
